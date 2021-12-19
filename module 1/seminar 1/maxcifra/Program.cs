@@ -13,6 +13,7 @@ namespace maxcifra
                 return;
             }
             int maxcifra = -1;
+
             int mincifra = 10;
             int cifra;
             while (chislo > 0)
