@@ -12,6 +12,7 @@ namespace maxcifra
                 Console.WriteLine("Incorrect input");
                 return;
             }
+
             int maxcifra = -1;
 
             int mincifra = 10;
